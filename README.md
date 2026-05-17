@@ -1,5 +1,5 @@
-## Hi everyone 👋
-### <div align="left"> 🌱 I'm a Python developer</div>  
+## Hi
+### <div align="left"> I'm a Python developer with 2+ years commercial experience</div>  
 
 <br/> 
 
